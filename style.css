@@ -1,4 +1,21 @@
-#container {
-    background-color: red;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {}
+
+.container {
+    margin: 200px auto;
+    border: solid 2px black;
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(#f9af27 66%, #ffffff 30%, #ff3232 100%);
+    box-shadow: 0px 0px 100px 20px rgb(0, 0, 0);
+    border-radius: 0%;
+}
+
+#middle {
+    background: green;
     border-color: red;
 }
