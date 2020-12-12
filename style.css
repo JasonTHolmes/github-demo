@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.tomato {
+#tomato-container{
     margin: 200px auto;
     border: solid 1px black;
     height: 400px;
@@ -13,7 +13,7 @@
     border-radius: 50%;
 }
 
-.container {
+#number-container {
     margin: 45% auto;
     border: solid 1px black;
     height: 50px;
