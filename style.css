@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background: linear-gradient(green, red, yellow)
+}
+
 header {
     text-align: center;
 
