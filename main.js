@@ -60,11 +60,11 @@ function timer(){
     //increment counter by one if one full cycle is completed
 
     if(wm.innerText == 0 && ws.innerText == 0 && bm.innerText == 0 && bs.innerText == 0){
-        wm.innertext = 25;
-        ws.innertext = "00";
+        wm.innerText = 25;
+        ws.innerText = "00";
 
-        bm.innertext = 5;
-        bs.innertext = "00"
+        bm.innerText = 5;
+        bs.innerText = "00"
 
         document.getElementById('counter').innerText++;
     }
