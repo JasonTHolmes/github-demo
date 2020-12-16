@@ -32,14 +32,17 @@ h1 {
 }
 
 #work {
+    padding: 20px;
     grid-area: 3 / 2 / 1 / 2;
 }
 
 #break {
+    padding: 20px;
     grid-area: 3 / 4 / 1 / 4;
 }
 
 #cycles {
+    padding: 20px;
     grid-area: 3 / 3 / 1 / 3;
 }
 
@@ -58,7 +61,7 @@ p {
 
 #counter {
     grid-area: 2 / 3 / 2 / 3;
-    color: green;
+    color: rgb(0, 255, 0);
 }
 
 #work-timer {
