@@ -13,7 +13,7 @@ h1 {
 #container {
     margin: 200px auto;
     background: red;
-    box-shadow: 0px 10px 30px 20px rgba(0, 0, 0, 0.288);
+    box-shadow: 0px 10px 30px 20px rgba(0, 0, 0, 0.5);
     border-radius: 50%;
     height: 500px;
     width: 500px;
@@ -60,15 +60,24 @@ p {
 }
 
 #counter {
+    padding: 10px;
+    border-radius: 10%;
+    background: white;
     grid-area: 2 / 3 / 2 / 3;
-    color: rgb(0, 255, 0);
+    color: rgb(174, 218, 172);
 }
 
 #work-timer {
+    padding: 10px;
+    border-radius: 10%;
+    background: white;
     grid-area: 2 / 2 / 2 / 2;
 }
 
 #break-timer {
+    padding: 10px;
+    border-radius: 10%;
+    background:  white;
     grid-area: 2/4/2/4;
 }
 
