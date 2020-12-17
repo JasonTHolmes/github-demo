@@ -51,7 +51,7 @@ function timer(){
     if(wm.innerText == 0 && ws.innerText == 00){
         if(bs.innerText != 0){
             bs.innerText--;
-        }else if(bm.innerText != 0 && bm.innerText == 0){
+        }else if(bm.innerText != 0 && bs.innerText == 0){
             bs.innerText = 59;
             bs.innerText--;
         }
