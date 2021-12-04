@@ -1,2 +1,0 @@
-"Test Git Quick Start demo" 
-Decided to turn this into a Pomodoro project.
